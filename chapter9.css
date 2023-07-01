@@ -61,7 +61,7 @@
   background-color: #aaa;
 }
 
-
+/*レスポンシブ対応箇所*/
 @media screen and (max-width:768px){
   .main-content{
     display: block;
