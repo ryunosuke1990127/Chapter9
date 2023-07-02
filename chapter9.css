@@ -73,9 +73,8 @@
 
   .main-content-item{
     width: 90%;
+    margin: 0 auto;
     margin-bottom: 20px;
-    /*margin: 0 auto;*/
-    /*おそらく回答*/
     }
 
   .main-content-item-name{
